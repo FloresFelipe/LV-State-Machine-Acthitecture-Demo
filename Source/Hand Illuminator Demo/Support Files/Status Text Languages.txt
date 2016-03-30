@@ -1,0 +1,9 @@
+Ready, click start whenver you want.	"¡Listo! Puedes hacer click em ""Iniciar"" a tu tiempo."	"Pronto! Você pode clicar em ""Iniciar"" quando quiser."
+"Either Camera or FPGA are not set. Please, go to ""Configure"" Menu to set them."	"No se han definido una cámara o un FPGA! Defínalos en el menu ""Definiciones"""	"A Câmera ou o FPGA não estão definidos. Defina-os no menu ""Configurar""."
+FPGA is now controlling the LED Matrix.	Control de LEDs por FPGA activo	O FPGA está controlando os LEDs agora 
+LED Matrix Control Stopped.	LEDs apagados	LEDs Desligados
+New Settings Applied.	Nuevas definiciones aplicadas	Novas configurações aplicadas
+Nothing has changed.	Nada se ha cambiado	Nada foi alterado
+Thanks for being curious about me! =)	Muchas gracias por tu curiosidad =)	Obrigado por querer me conhecer melhor =)
+Good Bye!	¡Hasta Luego!	Até Logo!
+Something went wrong with your camera. Please Check	Algo se sucedió a la cámara. Revise su configuración	Ocorreu algum erro com sua câmera. Por favor, verifique suas configurações.

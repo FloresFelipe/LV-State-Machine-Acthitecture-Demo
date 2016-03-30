@@ -1,0 +1,17 @@
+Start	Ejecutar	Iniciar
+Stop	Parar	Parar
+Exit	Salir	Sair
+Apply	Aplicar	Aplicar
+Cancel	Cancelar	Cancelar
+Yes	Sí	Sim
+No	No	Não
+< Back	< Anterior	< Anterior
+Next >	Seguiente >	Próximo >
+FPGA Bitfile Path	Camino para el FPGA Bitfile	Diretório do Bitfile do FGPA
+FPGA Target	FPGA Target	Target FPGA
+Row Timer (uS)	Temporizador Renglones (uS)	Temporizador de linha (uS)
+FIFO Timer (mS)	Temporizaror FIFO (mS)	Temporizador da FIFO (mS)
+Memory Writer Timer (uS)	Temporizador de escritura em memoria (uS)	Temporizador de escrita em memoria (uS)
+Foreground Color	Color Frontal	Cor Frontal
+Background Color	Color de Fondo	Cor de Fundo
+Select your device...	Elija su dispositivo...	Escolha seu Dispositivo...

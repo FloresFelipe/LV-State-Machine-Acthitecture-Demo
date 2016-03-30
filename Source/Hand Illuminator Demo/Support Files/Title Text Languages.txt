@@ -1,0 +1,5 @@
+High speed edge detection and digital IO with NI Vision and FPGA	Detección de bordes de alta velocidad y ES digitales con NI Vision y FPGA	Deteccção de bordas e ES digitais de alta velocidade com NI Vision e FPGA
+Choose your Camera	Elija su cámara	Escolha sua Câmera
+FPGA Settings	Definiciones de FPGA	Definições do FPGA
+LED Matrix Colors	Colores de la Matriz de de LEDs	Cores da Matriz de LEDs
+Choose a Language	Elija um idioma	Escolha um idioma
