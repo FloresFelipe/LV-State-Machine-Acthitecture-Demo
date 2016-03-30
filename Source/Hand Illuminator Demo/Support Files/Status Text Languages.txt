@@ -7,3 +7,4 @@ Nothing has changed.	Nada se ha cambiado	Nada foi alterado
 Thanks for being curious about me! =)	Muchas gracias por tu curiosidad =)	Obrigado por querer me conhecer melhor =)
 Good Bye!	¡Hasta Luego!	Até Logo!
 Something went wrong with your camera. Please Check	Algo se sucedió a la cámara. Revise su configuración	Ocorreu algum erro com sua câmera. Por favor, verifique suas configurações.
+Are you sure you want to exit?	¿Está  seguro de que queire salir?	Tem certeza que deseja sair?
