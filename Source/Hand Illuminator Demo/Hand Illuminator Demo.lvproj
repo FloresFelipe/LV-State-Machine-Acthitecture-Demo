@@ -1452,7 +1452,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{8A580CEA-2B9C-4040-B523-19E0CC424519}</Property>
-				<Property Name="Bld_version.build" Type="Int">64</Property>
+				<Property Name="Bld_version.build" Type="Int">65</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">High Speed Edge Detection.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/HID/High Speed Edge Detection.exe</Property>
